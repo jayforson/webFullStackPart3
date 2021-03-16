@@ -1,1 +1,1 @@
-DELETE   https://salty-spire-58655.herokuapp.com/api/persons/4
+DELETE   http://localhost:3001/api/persons/1

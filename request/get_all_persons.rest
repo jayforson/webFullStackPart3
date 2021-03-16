@@ -1,1 +1,1 @@
-GET  https://salty-spire-58655.herokuapp.com/api/persons
+GET  http://localhost:3001/api/persons
