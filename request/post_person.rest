@@ -1,0 +1,7 @@
+POST https://salty-spire-58655.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "adfd",
+    "number": "123-45-786"
+}
